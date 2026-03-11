@@ -79,5 +79,5 @@ I build engineering projects across **ROS, Python, SolidWorks, PCB design, and a
 
 ## Let's Connect
 
-- LinkedIn: [Your LinkedIn Link]
+- LinkedIn: https://www.linkedin.com/in/daniel-yoo-1a7788227/
 - GitHub Projects: Explore my pinned repositories below
