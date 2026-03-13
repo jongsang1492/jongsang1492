@@ -8,6 +8,27 @@ I build engineering projects across **ROS, Python, SolidWorks, PCB design, and a
 
 ## Featured Projects
 
+### Pick & Place Machine Design
+> Mechanical design project for a pick-and-place machine built in SolidWorks.
+
+- Designed structural and motion components for automated part placement
+- Created assemblies and manufacturing-ready CAD models
+- Applied mechanical design thinking to support repeatable motion and assembly
+
+**Tech:** `SolidWorks` `Mechanical Design` `CAD`
+
+---
+### Current Sense Amplifier PCB
+> Custom analog current-sensing circuit and PCB designed for a programmable power supply system.
+
+- Designed an LM324-based signal conditioning circuit for current sensing
+- Converted 0–0.35 V sensor output to 0.25–3.3 V ADC-compatible output
+- Added active low-pass filtering for noise suppression
+- Designed, fabricated, and assembled a custom PCB
+
+**Tech:** `LM324` `PCB Design` `EAGLE` `LTspice` `Soldering`
+
+---
 ### ROS-Based Robotic Manipulation System
 > Python-based robotic manipulation project using ROS1 and MoveIt for motion planning and control.
 
@@ -32,28 +53,8 @@ I build engineering projects across **ROS, Python, SolidWorks, PCB design, and a
 
 ---
 
-### Current Sense Amplifier PCB
-> Custom analog current-sensing circuit and PCB designed for a programmable power supply system.
 
-- Designed an LM324-based signal conditioning circuit for current sensing
-- Converted 0–0.35 V sensor output to 0.25–3.3 V ADC-compatible output
-- Added active low-pass filtering for noise suppression
-- Designed, fabricated, and assembled a custom PCB
 
-**Tech:** `LM324` `PCB Design` `EAGLE` `LTspice` `Soldering`
-
----
-
-### Pick & Place Machine Design
-> Mechanical design project for a pick-and-place machine built in SolidWorks.
-
-- Designed structural and motion components for automated part placement
-- Created assemblies and manufacturing-ready CAD models
-- Applied mechanical design thinking to support repeatable motion and assembly
-
-**Tech:** `SolidWorks` `Mechanical Design` `CAD`
-
----
 
 ## Tech Stack
 
